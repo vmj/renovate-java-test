@@ -1,0 +1,5 @@
+# These two scripts are managed by Gradle (the "wrapper" task), and
+# should never be changed manually.  Let's tell Git to leave them
+# alone.
+gradlew.bat   text eol=crlf
+gradlew       text eol=lf
